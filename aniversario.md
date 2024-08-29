@@ -1,6 +1,6 @@
 Para o meu aniversário:
 
-- Reservar a data do aluguel da chacára com antecedência;
+- Reservar a data do aluguel do local com antecedência;
 - Envie o convite para todos os convidados e solicite a confirmação da presença;
 - Reservar a data com buffet de comida italiana;
 - Encomendar o bolo no sabor de chocolate com recheio de coco;
