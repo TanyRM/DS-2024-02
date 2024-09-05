@@ -13,5 +13,6 @@ As cartas são:
 - Cartas de problema: 4 cartas, cada um contendo um tipo de problema que pode ser tratado usando Machine Learning.
 - Cartas de Familias de algoritmos: 8 cartas, cada uma contendo um grupo de algoritmos com algo em comum, em cada carta estão descritas as caracteristicas daquele grupo.
 - Cartas de algoritmo: 18 cartas contendo algoritmos específicos de Machine Learning e descrevendo os prós e contras de cada um deles.
+
 Para cada caso de uso levantado no projeto de um software é necessário selecionar um tipo de problema que melhor se encaixa e dentro desse problema selecionar o grupo de algoritmos e o algoritmo especifico que melhor vai atender o caso de uso do usuário.
 Esse é o processo comum da definição de um modelo de design e o jogo atua como um facilitador desse processo, exibindo as principais soluções e fazendo o jogador procurar os conceitos e situações para se sentir capaz de definir qual a melhor solução de design para uma determinada necessidade de um usuário, competência necessária no dia a dia.
