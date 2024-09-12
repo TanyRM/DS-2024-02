@@ -1,5 +1,26 @@
-ISO/IEC/IEEE 12207:2017
+## Questões apresentadas nas aulas da terceira semana:
+- **Qual a distinção entre sistemas em geral e sistemas de software?**</br>
+  Um sistema de maneira geral é um conjunto de elementos conectados que juntos alcaçam um objetivo específico através dessa integração. Um sistema de software é um tipo especifico de sistema que envolve um programa de computador e dados para alcançar o objetivo proposto do sistema.
+  As principais diferenças entre eles são a composição, já que sistemas de software obrigatoriamente são compostos de elementos digitais enquanto sistemas no contexto geral podem ter vários elementos distintos em sua composição; O propósito, pois um sistema de software é projetado para executar atividades computacionais; E o ambiente em que é usado, sistemas podem operar em diversos ambientes distintos e sistemas de software sempre operam em ambientes computacionais.
 
-ISO/IEC/IEEE42010:2022
+- **A norma ISO/IEC/IEEE 12207:2017 possui um processo específico para projeto (design) de software? Se afirmativo, qual seria este processo?**</br>
+  Sim, a norma possui um processo de projeto de software dentro do processo de implementação e ele tem como propósito definir uma solução de projeto de software que atenda aos requisitos levantados e que também possa ser implementado de maneira eficaz.
+  Nesse processo são citados como objetivos do projeto:
+  - Definição da arquitetura do software, deve ser uma arquitetura modular, escalavel e manutenivel e de forma que cumpra com os requisitos previamente estabelecidos.
+  - Especificação de componentes, inclui o detalhamento do projeto ddos componentes de software e as interfaces, considerando as interações internas e com sistemas externos.
+  - Garantia da integração e compatibilidade, garantir que o projeta seja compativel com os padrões de integração que serão aplicados.
+  - Validar o projeto, validar o projeto de acordo com os requisitos de qualidade e funcionalidade.
 
-ISO/IEC 25010:2011
+- **Qual a distinção entre o conceito de projeto no contexto de gerenciamento de projetos (project management) e para o contexto de design de software?**</br>
+  No contexto de gerenciamento do procejeto o conceeito é tratado como uma ação temporária na definição de um produto, com inicio e fim definidos em um escopo claro e recursos alocados. O foco é em realizar todos os esforços e encerrar as atividades envolvidas com um produto final que atinja os objetivos propostos. Em resumo, o gerenciamento de projetos lida com a coordenação de pessoas, processos e recursos para cumprir um objetivo específico de forma eficiente e eficaz.
+  Já no contexto de design, o termo se refere ao processo de definição da estrutura, componentes, interfaces e qualquer outro elemento necessário na criação de software que atenda aos requisitos especificados. Nesse contexto o foco é em como o software vai ser implementado e organizado, trata de atividades técnicas e criativas na busca de soluções para atender os requisitos ao mesmo tempo que garante eficiência, escalabilidade, segurança e manutenabilidade.
+
+- **Obtenha acesso à norma ISO/IEC/IEEE 42010:2022. Você pode baixar esta norma, por exemplo, do portal da https://ieeexplore.ieee.org. Isso será possível se estiver utilizando o ambiente da UFG (laboratório do INF, por exemplo), o que garante o acesso pago pelo governo federal. Se você fosse comprar esta norma, quanto custaria?**</br>
+  $75.00 para membros e $93.00 para não membros
+
+## Compreensão das normas
+A norma ISO/IEC/IEEE 42010:2022 estabelece requisitos para a estruturação e expressão de descrições arquiteturais de software. O objetivo desta norma é garantir que as arquiteturas de software sejam registradas de maneira consistente, compreensível e compartilhável entre todas as partes interessadas. Ela não orienta sobre como produzir a arquitetura de software em si, mas define como documentar suas características, decisões, pontos de vista e partes envolvidas. Sem essa norma, haveria uma falta de uniformidade na documentação das arquiteturas, o que poderia levar a mal-entendidos, falta de clareza e dificuldades na comunicação entre os diversos stakeholders do projeto.
+
+Já a norma ISO/IEC 25010:2011 define um modelo de qualidade para sistemas e software, descrevendo as características de qualidade que devem ser especificadas, medidas e avaliadas para garantir que o software atenda aos objetivos e necessidades das partes interessadas. Essa norma tem como finalidade ajudar na definição de requisitos de qualidade e na avaliação da qualidade do software e de sistemas computacionais baseados em software, garantindo que eles proporcionem valor às partes interessadas. Sem essa norma, seria mais difícil especificar e avaliar os atributos de qualidade de um sistema, o que poderia resultar em software de baixa qualidade, não atendendo aos requisitos de seus usuários ou falhando em proporcionar o valor esperado.
+
+O design de software depende da documentação adequada da arquitetura, conforme orientado pela ISO/IEC/IEEE 42010:2022, para garantir que a solução técnica seja compreensível e eficaz. Além disso, o design de software deve considerar as características de qualidade definidas pela ISO/IEC 25010:2011 para assegurar que o software atenda aos requisitos de qualidade necessários para corresponder as expectativas das partes interessadas. Em suma, ambas as normas fornecem diretrizes cruciais que impactam diretamente o design de software, assegurando tanto a clareza na comunicação da arquitetura quanto a qualidade do produto final.
